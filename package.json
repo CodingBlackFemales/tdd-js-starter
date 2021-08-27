@@ -1,0 +1,19 @@
+{
+  "name": "tdd-js-starter",
+  "version": "1.0.0",
+  "description": "Kata starter project",
+  "main": "index.js",
+  "repository": "git@github.com:CodingBlackFemales/tdd-js-starter.git",
+  "author": "Solange Umuhire Gasengayire <sgasengayire@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-jest": "^27.1.0",
+    "jest": "^27.1.0"
+  }
+}
